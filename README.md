@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Centro Universitário Cesmac
-- 🌱 I’m currently learning JavaScript, React Native and Node.js
+- 🌱 I’m currently learning JavaScript, React.js and Node.js
 
 - 📫 How to reach me:
     - Twitter - [@j0tappe](https://twitter.com/j0tappe)
