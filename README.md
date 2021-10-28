@@ -1,4 +1,8 @@
-<img alt="All rights reserved to Raffaella Mattei Cattani (https://www.behance.net/kikachan)" align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/18dd62114334463.60390ce6e78e0.gif" />
+<p>
+  <img alt="All rights reserved to Raffaella Mattei Cattani (https://www.behance.net/kikachan)" align="center" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/18dd62114334463.60390ce6e78e0.gif" />
+ </p>
+
+<!--- <img alt="All rights reserved to ()" align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2d7dd6126487093.612e6d62bd8ee.gif" width="220" height="400"/> --->
 
 <h1>
   <p align="left">
@@ -19,6 +23,9 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/j0tappe)
 [![Instagram](https://img.shields.io/badge/-Instagram-060606?style=flat&labelColor=0D0D0D&logo=Instagram&Color=white)](https://instagram.com/j0tappe)
 [![Outlook](https://img.shields.io/badge/-Outlook-060606?style=flat&labelColor=0D0D0D&logo=microsoft-outlook&Color=white)](mailto:jotappe-@hotmail.com)
+[![Resume](https://img.shields.io/badge/-Resume-060606?style=flat&labelColor=0D0D0D&logo=read-the-docs&Color=white)](https://drive.google.com/file/d/1jBjHdzWqmMXv2EPBZX6qjVSSTlbFJ0x-/view?usp=sharing)
+
+
 
 #
 
