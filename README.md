@@ -1,23 +1,17 @@
-<img align="right" src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif" />
+<img alt="All rights reserved to Raffaella Mattei Cattani (https://www.behance.net/kikachan)" align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/18dd62114334463.60390ce6e78e0.gif" />
 
-# Hi there, I'm Jp <img src="https://media.giphy.com/media/GltC4HZLjJLvq/giphy.gif" width="55">
+<h1>
+  <p align="left">
+     Hi there, I'm <i>Jp</i> <img src="https://media.giphy.com/media/GltC4HZLjJLvq/giphy.gif" width="55"/>
+  </p>
+</h1>
 
 - 🔭 I am a systems analyst at Centro Universitário Cesmac
 - 🌱 I’m currently learning the front-end technologies: JavaScript, React.js and Styled-Components.
 - 📌 I live in Maceió/AL - BR
-- 📫 Reach me on my social media or email
+- 📫 Reach me on my social media or e-mail
 
-#
-   
-<!---Contact badges: https://dev.to/envoy_/150-badges-for-github-pnk--->
-<!---
-<div>
-  <a href="https://instagram.com/j0tappe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/j0tappe" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/j0tappe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>      
-  <a href = "mailto:jotappe-@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-</div>
---->
+#   
 
 <h3 align="left">Connect with me:</h3>
 
