@@ -1,7 +1,8 @@
-# Hi there <img src="https://media.giphy.com/media/GltC4HZLjJLvq/giphy.gif" width="55">
+<img align="right" src="https://i.pinimg.com/originals/24/8e/47/248e47a848da59d73bd1b58b34b65a7c.gif" />
 
+# Hi there, I'm Jp <img src="https://media.giphy.com/media/GltC4HZLjJLvq/giphy.gif" width="55">
 
-- 🔭 Working on Centro Universitário Cesmac
+- 🔭 I am a systems analyst at Centro Universitário Cesmac
 - 🌱 I’m currently learning the front-end technologies: JavaScript, React.js and Styled-Components.
 - 📌 I live in Maceió/AL - BR
 - 📫 Reach me on my social media or email
