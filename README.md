@@ -10,9 +10,9 @@
   </p>
 </h1>
 
-- 🔭 I am a systems analyst at Centro Universitário Cesmac
+- 🔭 I am a systems analyst at Front-end developer
 - 🌱 I’m currently learning the front-end technologies: JavaScript, React.js and Styled-Components.
-- 📌 I live in Maceió/AL - BR
+- 📌 I live in Lisboa - Portugal
 - 📫 Reach me on my social media or e-mail
 
 #   
