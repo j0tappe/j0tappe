@@ -10,8 +10,9 @@
   </p>
 </h1>
 
-- 🔭 I am a systems analyst at Front-end developer
+- 🔭 I'm a Systems Analyst at Front-end developer
 - 🌱 I’m currently learning the front-end technologies: JavaScript, React.js and Styled-Components.
+- 🛠️ I'm also learning test implementations with Jest
 - 📌 I live in Lisboa - Portugal
 - 📫 Reach me on my social media or e-mail
 
