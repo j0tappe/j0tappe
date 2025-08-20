@@ -10,9 +10,9 @@
   </p>
 </h1>
 
-- 🔭 I'm a Systems Analyst and Front-end developer
-- 🌱 I’m currently learning the front-end technologies: React.js with TypeScript.
-- 🛠️ I'm also learning test implementations with Jest
+- 🔭 I'm a Applicational Support Analyst
+- 🌱 I’m currently learning automated testing and front-end development
+- 🛠️ Build front-end skills with React.js and TypeScript, and for testing with Jest and Swagger
 - 📌 Brazilian 🇧🇷 living in Lisbon - Portugal 🇵🇹
 - 📫 Reach me on my social media or e-mail
 
@@ -21,8 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/j0tappe/)
-[![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/j0tappe)
-[![Instagram](https://img.shields.io/badge/-Instagram-060606?style=flat&labelColor=0D0D0D&logo=Instagram&Color=white)](https://instagram.com/j0tappe)
+[![Instagram](https://img.shields.io/badge/-Instagram-060606?style=flat&labelColor=0D0D0D&logo=Instagram&Color=white)](https://instagram.com/jotapixel)
 [![Outlook](https://img.shields.io/badge/-Outlook-060606?style=flat&labelColor=0D0D0D&logo=microsoft-outlook&Color=white)](mailto:jotappe-@hotmail.com)
 [![Resume](https://img.shields.io/badge/-Resume-060606?style=flat&labelColor=0D0D0D&logo=read-the-docs&Color=white)](https://drive.google.com/file/d/1EXlnyf677z2L5te7s8MuVPrP-a0j9eFY/view?usp=sharing)
 
