@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning automated testing and front-end development
 - 🛠️ Build front-end skills with React.js and TypeScript, and for testing with Jest and Swagger
 - 📌 Brazilian 🇧🇷 living in Lisbon - Portugal 🇵🇹
-- 📫 Reach me on my social media or e-mail
+- 📫 Let’s connect! You can reach me via social media or e-mail
 
 #   
 
@@ -23,7 +23,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/j0tappe/)
 [![Instagram](https://img.shields.io/badge/-Instagram-060606?style=flat&labelColor=0D0D0D&logo=Instagram&Color=white)](https://instagram.com/jotapixel)
 [![Outlook](https://img.shields.io/badge/-Outlook-060606?style=flat&labelColor=0D0D0D&logo=microsoft-outlook&Color=white)](mailto:jotappe-@hotmail.com)
-[![Resume](https://img.shields.io/badge/-Resume-060606?style=flat&labelColor=0D0D0D&logo=read-the-docs&Color=white)](https://drive.google.com/file/d/1EXlnyf677z2L5te7s8MuVPrP-a0j9eFY/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/-Resume-060606?style=flat&labelColor=0D0D0D&logo=read-the-docs&Color=white)](https://drive.google.com/file/d/1qXCcGKUTGW284zKcg6TmFfCQbu5Vw9rN/view?usp=sharing)
 
 
 
