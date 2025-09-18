@@ -23,7 +23,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/j0tappe/)
 [![Instagram](https://img.shields.io/badge/-Instagram-060606?style=flat&labelColor=0D0D0D&logo=Instagram&Color=white)](https://instagram.com/jotapixel)
 [![Outlook](https://img.shields.io/badge/-Outlook-060606?style=flat&labelColor=0D0D0D&logo=microsoft-outlook&Color=white)](mailto:jotappe-@hotmail.com)
-[![Resume](https://img.shields.io/badge/-Resume-060606?style=flat&labelColor=0D0D0D&logo=read-the-docs&Color=white)](https://drive.google.com/file/d/1qXCcGKUTGW284zKcg6TmFfCQbu5Vw9rN/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/-Resume-060606?style=flat&labelColor=0D0D0D&logo=read-the-docs&Color=white)](https://drive.google.com/file/d/1diF1HHXPJIKzMIRxiSGLQVhijhTWfmpD/view?usp=sharing)
 
 
 
